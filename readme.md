@@ -25,7 +25,7 @@ A comprehensive data analysis project exploring pizza sales trends and performan
 
 ## 📦 Dataset Overview
 
-📁 File: `data/pizza_sales.csv`
+📁 File: `pizza_sales.csv`
 
 This dataset represents transactional sales data from a fictional pizza restaurant. It includes order-level details and product information.
 
@@ -43,7 +43,7 @@ This dataset represents transactional sales data from a fictional pizza restaura
 
 ## 🧮 SQL Analysis
 
-📁 File: `queries/pizza_analysis.sql`
+📁 File: `pizza_analysis.sql`
 
 This analysis is structured to provide both high-level KPIs and deeper insights into customer behavior and product performance.
 
