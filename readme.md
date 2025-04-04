@@ -91,7 +91,7 @@ The dashboard complements the SQL analysis with a visual summary of key insights
 
 ## 🖼️ Sample Dashboard Visual
 
-![Pizza Sales Power BI Dashboard](visuals/pizza_dashboard_overview.png)
+![Pizza Sales Power BI Dashboard](pizza_dashboard_overview.png)
 *Overview of key KPIs and sales breakdowns including daily trends, monthly orders, sales by category and size, and pizza popularity.*
 
 ### Key Insights Shown:
