@@ -43,7 +43,7 @@ This dataset represents transactional sales data from a fictional pizza restaura
 
 ## 🧮 SQL Analysis
 
-📁 File: `pizza_analysis.sql`
+📁 File: `pizza_sales_analysis.sql`
 
 This analysis is structured to provide both high-level KPIs and deeper insights into customer behavior and product performance.
 
