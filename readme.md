@@ -76,7 +76,7 @@ All queries are modular and organized to support further customization or use in
 
 ## 📊 Power BI Dashboard
 
-📁 File: `visuals/pizza_sales_dashboard.pbix`
+📁 File: `pizza_sales_dashboard.pbix`
 
 The dashboard complements the SQL analysis with a visual summary of key insights, including:
 
@@ -92,7 +92,7 @@ The dashboard complements the SQL analysis with a visual summary of key insights
 ## 🖼️ Sample Dashboard Visual
 
 ![Pizza Sales Power BI Dashboard](pizza_dashboard_overview.png)
-*Overview of key KPIs and sales breakdowns including daily trends, monthly orders, sales by category and size, and pizza popularity.*
+*Overview of key KPIs and sales breakdowns, including daily trends, monthly orders, sales by category and size, and pizza popularity.*
 
 ### Key Insights Shown:
 - 💰 **Total Revenue**: $817.86K
