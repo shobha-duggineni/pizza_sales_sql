@@ -19,13 +19,13 @@ A comprehensive data analysis project exploring pizza sales trends and performan
 
 - **SQL** – for querying, aggregating, and analyzing data
 - **Power BI Desktop** – for visual analytics and dashboard design
-- **CSV** – as the primary data source (pizza_sales.csv)
+- **CSV** – as the primary data source ([`pizza_sales.csv`](./pizza_sales.csv))
 
 ---
 
 ## 📦 Dataset Overview
 
-📁 File: `pizza_sales.csv`
+📁 File: [`pizza_sales.csv`](./pizza_sales.csv)
 
 This dataset represents transactional sales data from a fictional pizza restaurant. It includes order-level details and product information.
 
@@ -43,7 +43,7 @@ This dataset represents transactional sales data from a fictional pizza restaura
 
 ## 🧮 SQL Analysis
 
-📁 File: `pizza_sales_analysis.sql`
+📁 File: [`pizza_sales_analysis.sql`](./pizza_sales_analysis.sql)
 
 This analysis is structured to provide both high-level KPIs and deeper insights into customer behavior and product performance.
 
@@ -76,7 +76,7 @@ All queries are modular and organized to support further customization or use in
 
 ## 📊 Power BI Dashboard
 
-📁 File: `pizza_sales_dashboard.pbix`
+📁 File: [`pizza__sales_dasboard.pbix`](./pizza__sales_dasboard.pbix)
 
 The dashboard complements the SQL analysis with a visual summary of key insights, including:
 
@@ -91,20 +91,15 @@ The dashboard complements the SQL analysis with a visual summary of key insights
 
 ## 🖼️ Sample Dashboard Visual
 
-![Pizza Sales Power BI Dashboard](pizza_dashboard_overview.png)
+![Pizza Sales Power BI Dashboard](./pizza_dashboard_overview.png)  
 *Overview of key KPIs and sales breakdowns, including daily trends, monthly orders, sales by category and size, and pizza popularity.*
 
 ### Key Insights Shown:
-- 💰 **Total Revenue**: $817.86K
-- 🍕 **Total Pizzas Sold**: 49,574
-- 📦 **Total Orders**: 21,350
-- ⚖️ **Average Order Value**: $38.31
+- 💰 **Total Revenue**: $817.86K  
+- 🍕 **Total Pizzas Sold**: 49,574  
+- 📦 **Total Orders**: 21,350  
+- ⚖️ **Average Order Value**: $38.31  
 - 📊 **Visuals Included**:
-  - Daily and Monthly Order Trends
-  - Percentage of Sales by Category and Size
+  - Daily and Monthly Order Trends  
+  - Percentage of Sales by Category and Size  
   - Pizzas Sold by Category
-
----
-
-
-
